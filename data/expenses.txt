@@ -1,1 +1,2 @@
 1|2025-11-20|1|45000.0|Visit to Hometown
+2|2025-11-23|2|5600.0|God cold and fever
